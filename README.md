@@ -1,1 +1,2 @@
 # kanban-board
+Un tablero Kanban es una herramienta visual que se utiliza para gestionar el flujo de trabajo de un proyecto o proceso. Se divide en columnas que representan las diferentes etapas del trabajo, y cada tarea se representa con una tarjeta que se mueve a través de las columnas a medida que avanza el trabajo. El objetivo principal de un tablero Kanban es mejorar la eficiencia, limitar la cantidad de trabajo en curso y facilitar la gestión del flujo de trabajo. 
